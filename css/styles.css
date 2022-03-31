@@ -1,0 +1,50 @@
+body{
+    background-image: url(../img/BackgroundPokedex.jpg);
+    background-size: 800px;
+    background-repeat: no-repeat;
+}
+
+.inputPoke{
+    margin-top: 470px;
+    margin-left: 80px;
+    width: 140px;
+    height: 60px;
+    position: absolute;
+    font-size: xx-large;
+    background-color: green;
+    color: #FFFFFF;
+}
+
+.btnBusca{
+    margin-left: 460px;
+    position: absolute;
+    margin-top: 380px;
+    height: 50px;
+    background-color: white;
+    font-size: large;
+}
+
+.imgPoke{
+    position: absolute;
+    margin-left: 63px;
+    margin-top: 148px;
+    background-color: bisque;
+    border-radius: 10px;
+    height: 170px;
+    width: 255px;
+}
+
+/* Grafica */
+.grafica{
+    position: absolute;
+    background-color: black;
+    margin-top: 130px;
+    margin-left: 470px;
+    width: 260px;
+    height: 126px;
+    border-radius: 10px;
+}
+
+.gfCanva{
+    opacity: -1;
+}
